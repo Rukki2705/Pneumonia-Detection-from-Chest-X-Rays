@@ -71,3 +71,23 @@ data/chest_xray/test/
 | F1 Score       | 91.0%     |
 | Inference Time | < 200 ms  |
 ```
+---
+
+## 📄 License
+
+This project is intended for **educational and research purposes only**.  
+It is **not approved for clinical or diagnostic use**.
+
+---
+
+## 🤝 Acknowledgements
+
+- [NIH Chest X-Ray Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
+
+---
+
+## 👤 Author
+
+**Hrushikesh Attarde**  
+[LinkedIn](https://www.linkedin.com/in/hrushikesh-attarde) · [GitHub](https://github.com/Rukki2705)
